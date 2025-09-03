@@ -19,7 +19,7 @@ body {
 
 header {
   background: #4e342e;
-  color: white;
+  color: rgb(201, 255, 150);
   padding: 10px 0;
 }
 
@@ -36,7 +36,7 @@ nav ul {
 }
 
 nav a {
-  color: white;
+  color: rgb(203, 250, 164);
   text-decoration: none;
   margin: 0 15px;
   font-weight: bold;
@@ -59,7 +59,7 @@ nav a {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: white;
+  color: rgb(167, 214, 113);
   background: rgba(0,0,0,0.5);
   padding: 20px;
   border-radius: 10px;
@@ -67,7 +67,7 @@ nav a {
 
 .sobre {
   padding: 50px 0;
-  background-color: #fff;
+  background-color: #85f5bd;
 }
 
 .conteudo-sobre {
@@ -84,7 +84,7 @@ nav a {
 
 .cardapio {
   padding: 50px 0;
-  background-color: #fbe9e7;
+  background-color: #81f577;
 }
 
 .cardapio .itens {
@@ -95,7 +95,7 @@ nav a {
 }
 
 .item {
-  background: white;
+  background: rgb(183, 233, 136);
   padding: 15px;
   border-radius: 10px;
   text-align: center;
@@ -112,7 +112,7 @@ nav a {
 
 footer {
   background: #3e2723;
-  color: white;
+  color: rgb(194, 255, 143);
   text-align: center;
   padding: 20px 0;
 }
